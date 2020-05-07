@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GNBCommerce.API", "GNBCommerce.API\GNBCommerce.API.csproj", "{46F7BA1E-38A6-4AD0-ADB6-D420CFEC089A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GNBCommerce.Domain", "GNBCommerce.Domain\GNBCommerce.Domain.csproj", "{F9DA779B-0258-4A5D-ACEC-307A8BCDD960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GNBCommerce.Application", "GNBCommerce.Application\GNBCommerce.Application.csproj", "{D7661892-0168-4681-9DFB-452AD04903FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GNBCommerce.Infrastructure", "GNBCommerce.Infrastructure\GNBCommerce.Infrastructure.csproj", "{76FC8798-283F-49E3-B15E-E7EFA67FFD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F7BA1E-38A6-4AD0-ADB6-D420CFEC089A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F7BA1E-38A6-4AD0-ADB6-D420CFEC089A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F7BA1E-38A6-4AD0-ADB6-D420CFEC089A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F7BA1E-38A6-4AD0-ADB6-D420CFEC089A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9DA779B-0258-4A5D-ACEC-307A8BCDD960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DA779B-0258-4A5D-ACEC-307A8BCDD960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DA779B-0258-4A5D-ACEC-307A8BCDD960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DA779B-0258-4A5D-ACEC-307A8BCDD960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7661892-0168-4681-9DFB-452AD04903FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7661892-0168-4681-9DFB-452AD04903FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7661892-0168-4681-9DFB-452AD04903FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7661892-0168-4681-9DFB-452AD04903FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FC8798-283F-49E3-B15E-E7EFA67FFD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FC8798-283F-49E3-B15E-E7EFA67FFD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FC8798-283F-49E3-B15E-E7EFA67FFD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FC8798-283F-49E3-B15E-E7EFA67FFD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79DFE29C-396F-4894-AA5D-C85923F7963C}
+	EndGlobalSection
+EndGlobal
